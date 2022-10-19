@@ -18,7 +18,6 @@
 		<PackageTags>Money;decimal;int;Convert</PackageTags>
 		<Title>MoneyExtensions</Title>
 		<Summary>Extension to convert decimal to integer</Summary>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	</PropertyGroup>
 
 	<ItemGroup>
